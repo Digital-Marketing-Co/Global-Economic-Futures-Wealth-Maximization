@@ -1,0 +1,20 @@
+# Dependencies and builds
+node_modules/
+.next/
+dist/
+build/
+coverage/
+
+# Local environment and credentials
+.env
+.env.*
+!.env.example
+
+# Generated research caches and temporary renders
+.cache/
+tmp/
+rendered-pages/
+
+# Operating-system files
+.DS_Store
+Thumbs.db

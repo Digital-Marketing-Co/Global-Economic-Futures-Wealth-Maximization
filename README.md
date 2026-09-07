@@ -77,7 +77,17 @@ Global-Economic-Futures-Wealth-Maximization/
 
 - **Owner**: Digital-Marketing-Co
 - **Permissions**: Admin level
-- **Visibility**: Private repository
+- **Visibility**: Repository visibility is governed by the current GitHub setting.
+
+## Encyclopedia Publication Program
+
+The current flagship program is an evidence-backed encyclopedia and interactive intelligence platform covering the **249-economy statistical universe**, including sovereign states, territories, and special statistical economies.
+
+Planned deliverables include a unified country-by-country encyclopedia, a global synthesis of fewer than 20 introductory pages, a Next.js/React/TypeScript/Tailwind application, reproducible provenance ledgers, scenario models, and complete publication QA.
+
+Primary and authoritative sources take priority. Missing values will be labeled rather than invented, and century-scale projections will be published as conditional scenarios rather than precise predictions.
+
+See `docs/PROJECT_CHARTER.md`, `docs/RESEARCH_STANDARD.md`, `data/SCHEMA.md`, and `COPYRIGHT.md`.
 - **Collaboration**: Authorized integrations and verified contributors
 
 ## Recent Updates
